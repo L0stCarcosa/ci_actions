@@ -48,8 +48,6 @@ public class MyFunctionalityTest {
 
         assertEquals(10, instance.getTen());
 
-
-
     }
 
 }
